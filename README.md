@@ -4,7 +4,7 @@
 
 .🌱 Actualmente estoy aprendiendo Node, Typescript y NextJS
 
-.👨‍💻 Podes visitar mi portfolio en 
+.👨‍💻 Podes visitar mi portfolio en https://portfolio-one-delta-55.vercel.app/
 
 .📫 Contactame por ezequielminzer@gmail.com
 
